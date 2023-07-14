@@ -1,0 +1,3 @@
+[submodule "heliostrome"]
+	path = heliostrome
+	url = https://github.com/stephansmit/heliostrome
